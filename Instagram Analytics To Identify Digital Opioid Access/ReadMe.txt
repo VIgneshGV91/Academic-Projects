@@ -1,0 +1,2 @@
+The source data used for the project has been scraped using an API called Phantombuster. Since the source data which has been scraped for a period of one month is 570MB I have attached the drive link of the files below:
+https://drive.google.com/drive/folders/1MZSrNrpe5243g-DdGZE8mJpmeuT6ryPp?usp=sharing
