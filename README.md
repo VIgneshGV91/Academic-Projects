@@ -1,2 +1,2 @@
 # Academic-Projects
-This Repository has Reports of the Academic Projects that I did in my Masters 
+This Repository has all the Academic project work contents and reports that I am currently doing in my Masters Programs
